@@ -1,0 +1,58 @@
+.tabla1{
+    padding: 2px;
+    border-style: ridge;
+}
+.foto{
+    vertical-align: middle;
+    
+    }
+.fila0{
+    padding: 2px;
+    border-style: ridge;
+}   
+
+.encabezado{
+    display: inline-block;
+    font-size: 80px;
+    color: blue;
+    vertical-align: bottom;   
+     
+}
+.habilidades{
+    font-size: 25px;
+}
+
+.fila1{
+    background-color: blue;
+    vertical-align: top;
+    color: blue;
+}
+.h1{
+    color: white;
+    text-align: center;
+}
+.h2{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.datosDeContacto{
+    color: white;
+    text-align: center;
+}
+.contactos{
+    color: white;
+    text-align: center;
+}
+.td2{
+    background-color: white;
+    font-size: 13px;
+    vertical-align: top;
+}
+.td3{
+    background-color: white;
+}
+.laboral{
+    font-size: 20px;
+}
+
